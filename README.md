@@ -1,3 +1,7 @@
+###
+An react application which will allow user to login with google account and which display repetitive paragraphs from user sent emails.
+
+
 ## Follow the steps to run locally
 
 In the project directory, you need to run:
